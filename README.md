@@ -4,7 +4,7 @@ Advanced Person Search Script
 
 ![apss](https://imgur.com/BzPqHJS.png)
 
-**## Install**
+## **Install**
 
 `pip3 install -r requirements.txt`
 
