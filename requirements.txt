@@ -1,0 +1,6 @@
+requests
+time
+pyfiglet
+bs4
+termcolor
+google
