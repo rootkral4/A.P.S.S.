@@ -123,7 +123,7 @@ time.sleep(2)
 def github():
 	print(colored("[?]Searching For Github Account...", "blue"))
 	try:
-		print(colored("[?]Searching On Google...", "blue"))
+		print(colored("[?]Searching On Github...", "blue"))
 		search_results = google.search("intext:" + thingtosearch + " inurl:github", 1)
 		for result in search_results:
 			print(colored("[-]URL :" + result.link + " | " + result.name, "yellow"))
